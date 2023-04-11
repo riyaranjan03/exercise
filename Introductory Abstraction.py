@@ -1,3 +1,4 @@
+#calculation between numbers
 def cal(i,a,b):
     if i>=1 and i<=7:
         if i==1:
